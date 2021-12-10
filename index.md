@@ -1,14 +1,58 @@
-## Welcome to Many Mages
 
-You can use the [editor on GitHub](https://github.com/manymages/website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <title>"Content" Condor  | VeeFriends.com</title>
+    <meta http-equiv="content-language" content="en-US"/>
+    <link rel="sitemap" href="/sitemap.xml"/>
+    <link rel="preconnect" href="https://cdn.veefriends.com"/>
+    <link rel="preconnect" href="https://blog.veefriends.com"/>
+    <link rel="preconnect" href="https://discord.veefriends.com"/>
+    <link rel="preconnect" href="https://cdn.discordapp.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com"/>
+    <link rel="preconnect" href="https://vfriendstest.azurefd.net"/>
+    <link rel="preconnect" href="https://res.cloudinary.com"/>
+    <link rel="preconnect" href="https://dc.services.visualstudio.com"/>
+    <link rel="preconnect" href="https://maps.googleapis.com"/>
+    <link rel="dns-prefetch" href="https://cdn.veefriends.com"/>
+    <link rel="dns-prefetch" href="https://blog.veefriends.com"/>
+    <link rel="dns-prefetch" href="https://discord.veefriends.com"/>
+    <link rel="dns-prefetch" href="https://cdn.discordapp.com"/>
+    <link rel="dns-prefetch" href="https://fonts.gstatic.com"/>
+    <link rel="dns-prefetch" href="https://vfriendstest.azurefd.net"/>
+    <link rel="dns-prefetch" href="https://res.cloudinary.com"/>
+    <link rel="dns-prefetch" href="https://dc.services.visualstudio.com"/>
+    <link rel="dns-prefetch" href="https://maps.googleapis.com"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
+    <link rel="manifest" href="/manifest.json"/>
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"/>
+    <meta name="apple-mobile-web-app-title" content="&quot;Content&quot; Condor | VeeFriends.com"/>
+    <meta name="application-name" content="&quot;Content&quot; Condor | VeeFriends.com"/>
+    <meta name="msapplication-TileColor" content="#ffffff"/>
+    <meta name="theme-color" content="#ffffff"/>
+    <meta name="description" content="This token is verifiable for admission to VeeCon 2022, 2023, 2024  This token is a collectible that lives on the Ethereum blockchain"/>
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="&quot;Content&quot; Condor | VeeFriends.com"/>
+    <meta property="og:description" content="This token is verifiable for admission to VeeCon 2022, 2023, 2024  This token is a collectible that lives on the Ethereum blockchain"/>
+    <meta property="og:url" content="https://veefriends.com/friends/0-content-condor"/>
+    <meta property="og:site_name" content="&quot;Content&quot; Condor | VeeFriends.com"/>
+    <meta property="og:image" content="https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3.png"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:description" content="This token is verifiable for admission to VeeCon 2022, 2023, 2024  This token is a collectible that lives on the Ethereum blockchain"/>
+    <meta name="twitter:title" content="&quot;Content&quot; Condor | VeeFriends.com"/>
+    <meta name="twitter:image:src" content="https://cdn.veefriends.com/f6pXbdBrDkgJjmSV-_XTrDCsS97-QXp2H6Yu0fLSCB0/3.png"/>
+    <meta name="fortmatic-site-verification" content="6m5tW2IXaCKRgvOY"/>
+    <meta name="yandex-verification" content="a24f04cf273aa880"/>
+    <base href="/"/>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&amp;family=Open+Sans:wght@400;600;700;800&amp;display=swap" rel="stylesheet"/>
+    <link href="/styles/style.css?v=CtTvIFB0H5BB3rhvX5uL0mqYJ1Xbq9_Y-YakBkWN5i0" rel="stylesheet"/>
+    <link href="/veefriends.com.Client.styles.css?v=dSJupoyEYIyfZNYS1TLqkKJXKkOn-uiySSZ15IkIKN8" rel="stylesheet"/>
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-` <script type="text/default-title">Welcome | Veefriends.com</script>
+    <script type="text/default-title">Welcome | Veefriends.com</script>
     <script type="text/default-meta-elements">[[,"viewport",,"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"],[,,"content-language","en-US"],[,"apple-mobile-web-app-title",,"Veefriends.com"],[,"application-name",,"Veefriends.com"],[,"msapplication-TileColor",,"#ffffff"],[,"theme-color",,"#ffffff"],[,"description",,"A Gary Vaynerchuk NFT project around meaningful intellectual property and an extraordinary community."],["og:locale",,,"en_US"],["og:type",,,"website"],["og:title",,,"VeeFriends.com"],["og:description",,,"A Gary Vaynerchuk NFT project around meaningful intellectual property and an extraordinary community."],["og:url",,,"https://veefriends.com"],["og:site_name",,,"Veefriends.com"],["og:image",,,"https://veefriends.com/facebook.png"],[,"twitter:card",,"summary_large_image"],[,"twitter:description",,"A Gary Vaynerchuk NFT project around meaningful intellectual property and an extraordinary community."],[,"twitter:title",,"Veefriends.com"],[,"twitter:image:src",,"https://veefriends.com/twitter.png"],[,"fortmatic-site-verification",,"6m5tW2IXaCKRgvOY"],[,"yandex-verification",,"a24f04cf273aa880"]]</script>
 </head>
 <body>
